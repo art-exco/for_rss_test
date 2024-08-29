@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<channel>
+  <title>TheStreet News Wheel Manual Test</title>
+  <description></description>
+  <jwplayer:kind>MANUAL</jwplayer:kind>
+  <jwplayer:feedid>psjyxryt</jwplayer:feedid>
+  <jwplayer:feed_instance_id>708ceb7f-ec63-4338-8cb3-81d2c4fe700d</jwplayer:feed_instance_id>
+  <jwplayer:link rel="first" href="https://cdn.jwplayer.com/v2/playlists/psjyxryt?format=mrss&amp;internal=false&amp;page_offset=1&amp;page_limit=500"/>
+  <jwplayer:link rel="last" href="https://cdn.jwplayer.com/v2/playlists/psjyxryt?format=mrss&amp;internal=false&amp;page_offset=1&amp;page_limit=500"/>
+  <item>
+    <title>Yelp sues Google over antitrust violations</title>
+    <link>https://cdn.jwplayer.com/previews/hdB5sYRb</link>
+    <description>Yelp is filing an antitrust lawsuit against Google over anti-competitive practices.</description>
+    <pubDate>Thu, 29 Aug 2024 15:28:59 -0000</pubDate>
+    <guid isPermaLink="false">hdB5sYRb</guid>
+    <enclosure url="https://cdn.jwplayer.com/videos/hdB5sYRb-fTh7LgCC.mp4" type="video/mp4" length="118"/>
+    <jwplayer:feedid>psjyxryt</jwplayer:feedid>
+      <media:group>
+      <media:content url="https://cdn.jwplayer.com/manifests/hdB5sYRb.m3u8" medium="video" type="application/vnd.apple.mpegurl" duration="118"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-FknIwiCt.mp4" medium="video" type="video/mp4" duration="118" width="320" height="180" fileSize="4255322"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-5zIAHufw.mp4" medium="video" type="video/mp4" duration="118" width="480" height="270" fileSize="5892421"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-9j2OdLRx.mp4" medium="video" type="video/mp4" duration="118" width="1280" height="720" fileSize="15712593"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-JsGDqGSA.m4a" medium="video" type="audio/mp4" duration="118" fileSize="1677175"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-fTh7LgCC.mp4" medium="video" type="video/mp4" duration="118" width="1920" height="1080" fileSize="36795063"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-3yZvbI3C.mp4" medium="video" type="video/mp4" duration="118" width="640" height="360" fileSize="6291255"/>
+      <media:content url="https://cdn.jwplayer.com/videos/hdB5sYRb-7VoDNUo9.mp4" medium="video" type="video/mp4" duration="118" width="960" height="540" fileSize="10497254"/>
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/hdB5sYRb/poster.jpg?width=720" width="720" />
+      <media:keywords>thestreet,stocks,video,google,technology,_published</media:keywords>
+    </media:group>
+    <jwplayer:track file="https://cdn.jwplayer.com/strips/hdB5sYRb-120.vtt" kind="thumbnails"/>
+    <jwplayer:economics>adsupported</jwplayer:economics>
+  </item>
+</channel>
+</rss>
